@@ -12,4 +12,5 @@ int main() {
 	}
 	last = total / sub;
 	cout << last;
+	return 0;
 }
